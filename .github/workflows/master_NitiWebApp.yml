@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'NitiWebApp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8183a243fb4544bf968fb0066014765f }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3f57803721694974bb9cff607891cb1a }}
         package: .
